@@ -5,8 +5,10 @@ A python CLI application to tackle the common issue of converting raw files easi
 
 
 
-## Demo
+## Demo  
 
-The script automates the process of converting RAW images to Desired format. It takes an input directory containing RAW images, processes each image parallelly, and saves the resulting images in an output directory.
+The script automates the process of converting RAW images to Desired format. It takes an input directory containing RAW images, processes each image parallelly, and saves the resulting images in an output directory.  
 
-# python Formatflip.py "inputpath" "outputpath" --input-ext ".inputformat" --output-ext ".outputformat" --threads 4 or desired value under the number of available threads
+---
+
+ python Formatflip.py "inputpath" "outputpath" --input-ext ".inputformat" --output-ext ".outputformat" --threads 4 or desired value under the number of available threads
